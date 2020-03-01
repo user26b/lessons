@@ -5,7 +5,4 @@ text="The first principle is that you must not fool yourself—and you are the e
 
 source="https://www.independent.co.uk/arts-entertainment/films/features/taika-waititi-interview-on-hunt-for-the-wilderpeople-thor-ragnarok-new-zealand-a7307336.html"
 attributed="Taika Waititi"
-text=“At the end of the day, the reality is: we’re all losers and we're all uncoordinated.
-We're the worst of all of the animals on earth and there's something quite endearing about that.
-We're literally the stupidest of all the animals. I mean, yeah, we invented stuff but we're so out of touch with everything.
-Physically, about less that 1% of us are actually probably doing what we should be with our bodies. We are the shittest animals on the planet.”
+text=“At the end of the day, the reality is: we’re all losers and we're all uncoordinated. We're the worst of all of the animals on earth and there's something quite endearing about that. We're literally the stupidest of all the animals. I mean, yeah, we invented stuff but we're so out of touch with everything. Physically, about less that 1% of us are actually probably doing what we should be with our bodies. We are the shittest animals on the planet.”
