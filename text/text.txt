@@ -1,3 +1,11 @@
 source="http://calteches.library.caltech.edu/51/2/CargoCult.htm"
 attributed="Richard Feynman"
 text="The first principle is that you must not fool yourself—and you are the easiest person to fool.  So you have to be very careful about that. After you’ve not fooled yourself, it’s easy not to fool other scientists.  You just have to be honest in a conventional way after that.  I would like to add something that’s not essential to the science, but something I kind of believe, which is that you should not fool the layman when you’re talking as a scientist. […] I’m talking about a specific, extra type of integrity that is not lying, but bending over backwards to show how you’re maybe wrong, that you ought to do when acting as a scientist.  And this is our responsibility as scientists, certainly to other scientists, and I think to laymen."
+
+
+source="https://www.independent.co.uk/arts-entertainment/films/features/taika-waititi-interview-on-hunt-for-the-wilderpeople-thor-ragnarok-new-zealand-a7307336.html"
+attributed="Taika Waititi"
+text=“At the end of the day, the reality is: we’re all losers and we're all uncoordinated.
+We're the worst of all of the animals on earth and there's something quite endearing about that.
+We're literally the stupidest of all the animals. I mean, yeah, we invented stuff but we're so out of touch with everything.
+Physically, about less that 1% of us are actually probably doing what we should be with our bodies. We are the shittest animals on the planet.”
